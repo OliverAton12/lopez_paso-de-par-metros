@@ -1,0 +1,4 @@
+Calificación: 2.1/3
+Faltan datos informativos
+Desde el main hay que llamar al menos 2 veces a cada función
+Revise los comentarios en mayúsculas que he dejado en sus ejercicios
